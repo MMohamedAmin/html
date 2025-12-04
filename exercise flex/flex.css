@@ -22,15 +22,19 @@
 #droite {
   background-color: yellow;
   height: 50%;
-  width: 80%;
+  width: 100%;
 }
 
 #a {
   background-color: purple;
+  width: 50%;
+  height: 50%;
 }
 
 #b {
   background-color: pink;
+  width: 50%;
+  height: 50%;
 }
 
 #footer {
@@ -44,5 +48,12 @@
   height: 83%;
   width: 100%;
 }
+
+#sousParent {
+  display: flex; 
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}   
 
 
