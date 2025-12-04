@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#main {
+  width: 100vw;
+  height: 100vh;
+}
+
+#entete {
+  background-color: red;
+  height: 10%;
+}
+
+#gauche {
+  background-color: green;
+  height: 100%;
+  width: 20%;
+}
+
+#droite {
+  background-color: yellow;
+  height: 50%;
+  width: 80%;
+}
+
+#a {
+  background-color: purple;
+}
+
+#b {
+  background-color: pink;
+}
+
+#footer {
+  background-color: blue;
+  height: 7%;
+}
+
+
+#parent {
+  display: flex;
+  height: 83%;
+  width: 100%;
+}
+
+
