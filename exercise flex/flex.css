@@ -32,10 +32,17 @@ main {
   width: 100%;
 }  
 
-#droite {
+
+
+#haut {
   background-color: yellow;
   height: 50%;
   width: 100%;
+}
+
+#bas {
+  display: flex;
+
 }
 
 #a {
